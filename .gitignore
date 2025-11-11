@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Virtual environment
+sr_venv/
+
+# Claude Code
+.claude/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
