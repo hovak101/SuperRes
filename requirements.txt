@@ -2,3 +2,5 @@ datasets
 huggingface_hub
 Pillow
 python-dotenv
+numpy
+matplotlib
