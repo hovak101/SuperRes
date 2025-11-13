@@ -4,4 +4,4 @@ Pillow
 python-dotenv
 numpy
 matplotlib
-tensorflow[and-cuda]
+tensorflow
