@@ -14,3 +14,6 @@ sr_venv/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Images
+div2k_images

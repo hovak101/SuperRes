@@ -1,7 +1,6 @@
-datasets
-huggingface_hub
+kagglehub
 Pillow
 python-dotenv
 numpy
 matplotlib
-tensorflow
+opencv-python
